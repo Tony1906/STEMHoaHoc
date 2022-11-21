@@ -63,6 +63,6 @@ while True:
     elif (user == "quit") or (user == 'thoát') or (user == "exit"):
         print('<-------------------------------->')
         print("Chương Trình đã tắt, chào tạm biệt")
-        print('Made by Tony')
+        print('Made by học sinh cô giáo Thảo =)))')
         print('<-------------------------------->')
         quit()    
